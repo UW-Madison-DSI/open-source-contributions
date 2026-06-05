@@ -2,7 +2,7 @@
  * Loads the generated data.json and renders cards, charts, and tables.
  * No build step: plain ES modules-free JS + Chart.js from CDN. */
 
-const REPO_URL = "https://github.com/moros2/open-source-contributions";
+const REPO_URL = "https://github.com/UW-Madison-DSI/open-source-contributions";
 const MAX_CONTRIB_ROWS = 100;
 
 const state = {
