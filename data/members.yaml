@@ -18,13 +18,13 @@
 members:
   - name: Maria Oros
     github: mariaob1201
-    role: staff
+    role: affiliate
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Matthew Feickert
     github: matthewfeickert
-    role: staff
+    role: affiliate
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -32,7 +32,7 @@ members:
 
   - name: Abe Megahed
     github: amegahed
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -40,13 +40,13 @@ members:
 
   - name: Allison Kittinger
     github: amkitt
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Anna Haensch
     github: annahaensch
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -54,19 +54,19 @@ members:
 
   - name: Bethany Philbrick
     github: bethanyphilbrick
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Steve Wangen
     github: blue442
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Brian S. Yandell
     github: byandell
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -74,7 +74,7 @@ members:
 
   - name: Kyle Cranmer
     github: cranmer
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -82,7 +82,7 @@ members:
 
   - name: Eric Wait
     github: ericwait
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -90,13 +90,13 @@ members:
 
   - name: Finn Kuusisto
     github: finnkuusisto
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Garrett Merz
     github: GarrettMerz
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -104,13 +104,13 @@ members:
 
   - name: Iain McConnell
     github: ilmcconnell
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Jason Lo
     github: JasonLo
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -118,7 +118,7 @@ members:
 
   - name: Kyllan Wunder
     github: kyllan16693
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -126,13 +126,13 @@ members:
 
   - name: Lisa Je
     github: ljeChemE
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Maja Waldron
     github: mariru
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -140,25 +140,25 @@ members:
 
   - name: Marlin Lee
     github: MarlinRLee
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Mack Servillon
     github: mservillon
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Rafael Ferreira
     github: referreira-wisc
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Raheem Hashmani
     github: RKHashmani
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -166,13 +166,13 @@ members:
 
   - name: Simon Goring
     github: SimonGoring
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: snotskie
     github: snotskie
-    role: member
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
@@ -180,12 +180,12 @@ members:
 
   - name: Sarah Stevens
     github: sstevens2
-    role: member
+    role: affiliate
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Steve Goldstein
     github: SteveGoldstein
-    role: member
+    role: affiliate
     affiliation: UW–Madison Data Science Institute
     active: true

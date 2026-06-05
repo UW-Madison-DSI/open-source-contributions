@@ -228,7 +228,7 @@
     {
       "name": "Matthew Feickert",
       "github": "matthewfeickert",
-      "role": "staff",
+      "role": "affiliate",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -245,7 +245,7 @@
     {
       "name": "Sarah Stevens",
       "github": "sstevens2",
-      "role": "member",
+      "role": "affiliate",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -260,7 +260,7 @@
     {
       "name": "Simon Goring",
       "github": "SimonGoring",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -275,7 +275,7 @@
     {
       "name": "Maria Oros",
       "github": "mariaob1201",
-      "role": "staff",
+      "role": "affiliate",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -290,7 +290,7 @@
     {
       "name": "Jason Lo",
       "github": "JasonLo",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -307,7 +307,7 @@
     {
       "name": "Kyle Cranmer",
       "github": "cranmer",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -324,7 +324,7 @@
     {
       "name": "Iain McConnell",
       "github": "ilmcconnell",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -339,7 +339,7 @@
     {
       "name": "Anna Haensch",
       "github": "annahaensch",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -356,7 +356,7 @@
     {
       "name": "snotskie",
       "github": "snotskie",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -373,7 +373,7 @@
     {
       "name": "Steve Wangen",
       "github": "blue442",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -388,7 +388,7 @@
     {
       "name": "Brian S. Yandell",
       "github": "byandell",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -405,7 +405,7 @@
     {
       "name": "Steve Goldstein",
       "github": "SteveGoldstein",
-      "role": "member",
+      "role": "affiliate",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -420,7 +420,7 @@
     {
       "name": "Kyllan Wunder",
       "github": "kyllan16693",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -437,7 +437,7 @@
     {
       "name": "Allison Kittinger",
       "github": "amkitt",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -452,7 +452,7 @@
     {
       "name": "Raheem Hashmani",
       "github": "RKHashmani",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -469,7 +469,7 @@
     {
       "name": "Finn Kuusisto",
       "github": "finnkuusisto",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -484,7 +484,7 @@
     {
       "name": "Garrett Merz",
       "github": "GarrettMerz",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -501,7 +501,7 @@
     {
       "name": "Abe Megahed",
       "github": "amegahed",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -518,7 +518,7 @@
     {
       "name": "Maja Waldron",
       "github": "mariru",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -535,7 +535,7 @@
     {
       "name": "Mack Servillon",
       "github": "mservillon",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -550,7 +550,7 @@
     {
       "name": "Marlin Lee",
       "github": "MarlinRLee",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -565,7 +565,7 @@
     {
       "name": "Lisa Je",
       "github": "ljeChemE",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -580,7 +580,7 @@
     {
       "name": "Rafael Ferreira",
       "github": "referreira-wisc",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -595,7 +595,7 @@
     {
       "name": "Bethany Philbrick",
       "github": "bethanyphilbrick",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
@@ -610,7 +610,7 @@
     {
       "name": "Eric Wait",
       "github": "ericwait",
-      "role": "member",
+      "role": "staff",
       "affiliation": "UW\u2013Madison Data Science Institute",
       "joined": null,
       "active": true,
