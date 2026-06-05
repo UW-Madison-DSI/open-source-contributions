@@ -1,0 +1,191 @@
+# DSI Open Source Contributors
+# ------------------------------
+# Add yourself by appending an entry to the `members` list below and opening a
+# pull request. A GitHub Action validates this file on every PR.
+#
+# Fields:
+#   name         (required)  Your full name as you'd like it shown.
+#   github       (required)  Your GitHub username (no @, no URL). Used to fetch
+#                            your public contributions automatically.
+#   role         (required)  One of: faculty | staff | student | postdoc |
+#                            affiliate | member
+#   affiliation  (optional)  Lab, department, or group. Defaults to "DSI".
+#   joined       (optional)  Month you joined, e.g. 2024-09.
+#   active       (optional)  true/false. Defaults to true. Set false to keep a
+#                            historical record without counting in active stats.
+#   links        (optional)  Map of extra profile links (website, scholar, etc).
+
+members:
+  - name: Maria Oros
+    github: mariaob1201
+    role: staff
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Matthew Feickert
+    github: matthewfeickert
+    role: staff
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: http://www.matthewfeickert.com
+
+  - name: Abe Megahed
+    github: amegahed
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://www.abemegahed.com
+
+  - name: Allison Kittinger
+    github: amkitt
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Anna Haensch
+    github: annahaensch
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://annahaensch.com
+
+  - name: Bethany Philbrick
+    github: bethanyphilbrick
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Steve Wangen
+    github: blue442
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Brian S. Yandell
+    github: byandell
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: http://www.stat.wisc.edu/~yandell
+
+  - name: Kyle Cranmer
+    github: cranmer
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://theoryandpractice.org
+
+  - name: Eric Wait
+    github: ericwait
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: http://ericwait.com
+
+  - name: Finn Kuusisto
+    github: finnkuusisto
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Garrett Merz
+    github: GarrettMerz
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://GarrettMerz.github.io
+
+  - name: Iain McConnell
+    github: ilmcconnell
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Jason Lo
+    github: JasonLo
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://jasonlo.dev
+
+  - name: Kyllan Wunder
+    github: kyllan16693
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://kyllan.dev
+
+  - name: Lisa Je
+    github: ljeChemE
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Maja Waldron
+    github: mariru
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://pages.cs.wisc.edu/~mrudolph3/
+
+  - name: Marlin Lee
+    github: MarlinRLee
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Mack Servillon
+    github: mservillon
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Rafael Ferreira
+    github: referreira-wisc
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Raheem Hashmani
+    github: RKHashmani
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://rkhashmani.me
+
+  - name: Simon Goring
+    github: SimonGoring
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: snotskie
+    github: snotskie
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+    links:
+      website: https://snotskie.com
+
+  - name: Sarah Stevens
+    github: sstevens2
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true
+
+  - name: Steve Goldstein
+    github: SteveGoldstein
+    role: member
+    affiliation: UW–Madison Data Science Institute
+    active: true

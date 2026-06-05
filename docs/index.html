@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DSI Open Source Contributions</title>
+  <meta name="description" content="Tracking open source contributions for UW–Madison Data Science Institute members and affiliates." />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>DSI Open Source Contributions</h1>
+      <p class="tagline">Tracking open source work by Data Science Institute members &amp; affiliates.</p>
+      <p class="meta">
+        Last updated <span id="generated-at">…</span> ·
+        <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Add yourself →</a>
+      </p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="cards" class="cards" aria-label="Summary statistics"></section>
+
+    <section class="grid-2">
+      <div class="panel">
+        <h2>Top projects</h2>
+        <canvas id="projectsChart" height="260"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Contributions over time</h2>
+        <canvas id="timeChart" height="260"></canvas>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Leaderboard</h2>
+        <input type="search" id="memberSearch" placeholder="Filter members…" aria-label="Filter members" />
+      </div>
+      <div class="table-scroll">
+        <table id="membersTable">
+          <thead>
+            <tr>
+              <th data-sort="name">Member</th>
+              <th data-sort="role">Role</th>
+              <th data-sort="total" class="num sorted-desc">Contributions</th>
+              <th data-sort="merged_prs" class="num">Merged PRs</th>
+              <th data-sort="external" class="num">External</th>
+              <th data-sort="projects" class="num">Projects</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Recent contributions</h2>
+        <input type="search" id="contribSearch" placeholder="Filter by project, title, or member…" aria-label="Filter contributions" />
+      </div>
+      <div class="table-scroll">
+        <table id="contribTable">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Member</th>
+              <th>Project</th>
+              <th>Contribution</th>
+              <th>Type</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="more" id="contribMore"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Built and maintained by the community. Data refreshes automatically from public GitHub activity.
+        <a href="https://github.com/" id="footer-repo" target="_blank" rel="noopener">Source &amp; contribution guide</a>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

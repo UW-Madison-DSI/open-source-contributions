@@ -1,0 +1,25 @@
+# Manual contributions registry
+# ------------------------------
+# Most GitHub pull requests are picked up AUTOMATICALLY from your `github`
+# username in members.yaml — you do NOT need to list those here.
+#
+# Use this file only for contributions the automation can't see, such as:
+#   - work on GitLab, Bitbucket, or other forges
+#   - conference talks, tutorials, or workshops
+#   - maintainer / steering-committee roles
+#   - reviews, mentorship, or docs not captured as a merged PR
+#
+# Fields:
+#   member       (required)  Must match a `github` username in members.yaml.
+#   project      (required)  Name of the project or venue.
+#   title        (required)  Short description of the contribution.
+#   url          (required)  Link to the PR, MR, talk, recording, etc.
+#   type         (required)  One of: pr | issue | review | docs | talk |
+#                            maintainer | release | other
+#   date         (required)  YYYY-MM-DD.
+#   description  (optional)  One or two sentences of extra context.
+
+# No manual contributions recorded yet. Add entries below following the format
+# documented above; most GitHub PRs are picked up automatically and don't need
+# to be listed here.
+contributions: []
