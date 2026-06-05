@@ -18,13 +18,13 @@
 members:
   - name: Maria Oros
     github: mariaob1201
-    role: affiliate
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
 
   - name: Matthew Feickert
     github: matthewfeickert
-    role: affiliate
+    role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
