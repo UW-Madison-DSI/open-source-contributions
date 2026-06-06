@@ -7,6 +7,7 @@
   <meta name="description" content="Tracking open source contributions for UW–Madison Data Science Institute members and affiliates." />
   <link rel="stylesheet" href="style.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -31,6 +32,21 @@
       <div class="panel">
         <h2>Contributions over time</h2>
         <canvas id="timeChart" height="260"></canvas>
+      </div>
+    </section>
+
+    <section class="panel" id="networkPanel">
+      <div class="panel-head">
+        <h2>Collaboration network</h2>
+        <label class="toggle"><input type="checkbox" id="sharedOnly" /> Shared projects only</label>
+      </div>
+      <p class="more" id="networkNote"></p>
+      <div id="network" class="network"></div>
+      <div class="legend">
+        <span><i class="dot member"></i> Member</span>
+        <span><i class="dot project"></i> Project</span>
+        <span><i class="dot shared"></i> Shared by ≥2 members</span>
+        <span class="legend-hint">drag nodes · scroll to zoom</span>
       </div>
     </section>
 

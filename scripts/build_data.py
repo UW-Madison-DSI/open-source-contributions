@@ -135,6 +135,83 @@ def normalize_manual(contribs: list[dict]) -> list[dict]:
     return out
 
 
+def build_network(contribs: list[dict], members: list[dict]) -> dict:
+    """Build the member↔project collaboration graph.
+
+    Nodes are DSI members and the projects they contribute to; an edge connects
+    a member to every project they touched. Projects reached by two or more
+    members are flagged ``shared`` — those are the collaboration hotspots. A
+    member↔member projection (who co-contributes to the same projects, and to
+    which) is included for richer member tooltips and future analysis.
+    """
+    member_by_login = {m["github"].lower(): m for m in members}
+
+    proj_members: dict[str, set[str]] = {}
+    pair_count: Counter = Counter()  # (project, login) -> contribution count
+    member_projects: dict[str, set[str]] = {}
+
+    for c in contribs:
+        proj = c.get("project")
+        login = (c.get("member") or "").lower()
+        if not proj or login not in member_by_login:
+            continue
+        proj_members.setdefault(proj, set()).add(login)
+        member_projects.setdefault(login, set()).add(proj)
+        pair_count[(proj, login)] += 1
+
+    nodes: list[dict] = []
+    for login, m in member_by_login.items():
+        nodes.append(
+            {
+                "id": f"m:{login}",
+                "label": m.get("name", m["github"]),
+                "type": "member",
+                "github": m["github"],
+                "degree": len(member_projects.get(login, ())),
+            }
+        )
+    for proj, mems in proj_members.items():
+        nodes.append(
+            {
+                "id": f"p:{proj}",
+                "label": proj,
+                "type": "project",
+                "contributions": sum(pair_count[(proj, login)] for login in mems),
+                "members": len(mems),
+                "shared": len(mems) >= 2,
+            }
+        )
+
+    links = [
+        {"source": f"m:{login}", "target": f"p:{proj}", "weight": pair_count[(proj, login)]}
+        for proj, mems in proj_members.items()
+        for login in mems
+    ]
+
+    # Member↔member co-contribution projection.
+    member_links: list[dict] = []
+    logins = sorted(member_projects)
+    for i, a in enumerate(logins):
+        for b in logins[i + 1 :]:
+            shared = member_projects[a] & member_projects[b]
+            if shared:
+                member_links.append(
+                    {
+                        "source": f"m:{a}",
+                        "target": f"m:{b}",
+                        "weight": len(shared),
+                        "projects": sorted(shared),
+                    }
+                )
+
+    return {
+        "nodes": nodes,
+        "links": links,
+        "member_links": member_links,
+        "shared_projects": sum(1 for mems in proj_members.values() if len(mems) >= 2),
+    }
+
+
 def build() -> dict:
     members_doc = load_yaml(DATA / "members.yaml")
     contribs_doc = load_yaml(DATA / "contributions.yaml")
@@ -218,6 +295,7 @@ def build() -> dict:
         "summary": summary,
         "members": sorted(member_out, key=lambda m: m["stats"]["total"], reverse=True),
         "contributions": deduped,
+        "network": build_network(deduped, members),
     }
 
 

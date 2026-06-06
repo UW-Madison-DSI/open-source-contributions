@@ -21236,5 +21236,5902 @@
       "source": "github",
       "external": true
     }
-  ]
+  ],
+  "network": {
+    "nodes": [
+      {
+        "id": "m:mariaob1201",
+        "label": "Maria Oros",
+        "type": "member",
+        "github": "mariaob1201",
+        "degree": 8
+      },
+      {
+        "id": "m:matthewfeickert",
+        "label": "Matthew Feickert",
+        "type": "member",
+        "github": "matthewfeickert",
+        "degree": 154
+      },
+      {
+        "id": "m:amegahed",
+        "label": "Abe Megahed",
+        "type": "member",
+        "github": "amegahed",
+        "degree": 3
+      },
+      {
+        "id": "m:amkitt",
+        "label": "Allison Kittinger",
+        "type": "member",
+        "github": "amkitt",
+        "degree": 3
+      },
+      {
+        "id": "m:annahaensch",
+        "label": "Anna Haensch",
+        "type": "member",
+        "github": "annahaensch",
+        "degree": 8
+      },
+      {
+        "id": "m:bethanyphilbrick",
+        "label": "Bethany Philbrick",
+        "type": "member",
+        "github": "bethanyphilbrick",
+        "degree": 0
+      },
+      {
+        "id": "m:blue442",
+        "label": "Steve Wangen",
+        "type": "member",
+        "github": "blue442",
+        "degree": 11
+      },
+      {
+        "id": "m:byandell",
+        "label": "Brian S. Yandell",
+        "type": "member",
+        "github": "byandell",
+        "degree": 15
+      },
+      {
+        "id": "m:cranmer",
+        "label": "Kyle Cranmer",
+        "type": "member",
+        "github": "cranmer",
+        "degree": 27
+      },
+      {
+        "id": "m:ericwait",
+        "label": "Eric Wait",
+        "type": "member",
+        "github": "ericwait",
+        "degree": 0
+      },
+      {
+        "id": "m:finnkuusisto",
+        "label": "Finn Kuusisto",
+        "type": "member",
+        "github": "finnkuusisto",
+        "degree": 7
+      },
+      {
+        "id": "m:garrettmerz",
+        "label": "Garrett Merz",
+        "type": "member",
+        "github": "GarrettMerz",
+        "degree": 2
+      },
+      {
+        "id": "m:ilmcconnell",
+        "label": "Iain McConnell",
+        "type": "member",
+        "github": "ilmcconnell",
+        "degree": 11
+      },
+      {
+        "id": "m:jasonlo",
+        "label": "Jason Lo",
+        "type": "member",
+        "github": "JasonLo",
+        "degree": 16
+      },
+      {
+        "id": "m:kyllan16693",
+        "label": "Kyllan Wunder",
+        "type": "member",
+        "github": "kyllan16693",
+        "degree": 5
+      },
+      {
+        "id": "m:ljecheme",
+        "label": "Lisa Je",
+        "type": "member",
+        "github": "ljeChemE",
+        "degree": 1
+      },
+      {
+        "id": "m:mariru",
+        "label": "Maja Waldron",
+        "type": "member",
+        "github": "mariru",
+        "degree": 2
+      },
+      {
+        "id": "m:marlinrlee",
+        "label": "Marlin Lee",
+        "type": "member",
+        "github": "MarlinRLee",
+        "degree": 3
+      },
+      {
+        "id": "m:mservillon",
+        "label": "Mack Servillon",
+        "type": "member",
+        "github": "mservillon",
+        "degree": 2
+      },
+      {
+        "id": "m:referreira-wisc",
+        "label": "Rafael Ferreira",
+        "type": "member",
+        "github": "referreira-wisc",
+        "degree": 1
+      },
+      {
+        "id": "m:rkhashmani",
+        "label": "Raheem Hashmani",
+        "type": "member",
+        "github": "RKHashmani",
+        "degree": 7
+      },
+      {
+        "id": "m:simongoring",
+        "label": "Simon Goring",
+        "type": "member",
+        "github": "SimonGoring",
+        "degree": 43
+      },
+      {
+        "id": "m:snotskie",
+        "label": "snotskie",
+        "type": "member",
+        "github": "snotskie",
+        "degree": 9
+      },
+      {
+        "id": "m:sstevens2",
+        "label": "Sarah Stevens",
+        "type": "member",
+        "github": "sstevens2",
+        "degree": 91
+      },
+      {
+        "id": "m:stevegoldstein",
+        "label": "Steve Goldstein",
+        "type": "member",
+        "github": "SteveGoldstein",
+        "degree": 11
+      },
+      {
+        "id": "p:iris-hep/iris-hep.github.io",
+        "label": "iris-hep/iris-hep.github.io",
+        "type": "project",
+        "contributions": 70,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:conda-forge/fastbdt-feedstock",
+        "label": "conda-forge/fastbdt-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-papers/chep-2026-proceedings-hep-packaging-coordination",
+        "label": "matthewfeickert-papers/chep-2026-proceedings-hep-packaging-coordination",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/contur-feedstock",
+        "label": "conda-forge/contur-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hep-packaging-coordination/.github",
+        "label": "hep-packaging-coordination/.github",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/admin-requests",
+        "label": "conda-forge/admin-requests",
+        "type": "project",
+        "contributions": 10,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/vmec-jax-feedstock",
+        "label": "conda-forge/vmec-jax-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/interpax-fft-feedstock",
+        "label": "conda-forge/interpax-fft-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/staged-recipes",
+        "label": "conda-forge/staged-recipes",
+        "type": "project",
+        "contributions": 35,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/phmsci756-genomics-r-intro",
+        "label": "UW-Madison-DataScience/phmsci756-genomics-r-intro",
+        "type": "project",
+        "contributions": 19,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/R-gitlab-lesson",
+        "label": "UW-Madison-DataScience/R-gitlab-lesson",
+        "type": "project",
+        "contributions": 25,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/skill-cellar",
+        "label": "JasonLo/skill-cellar",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/lite-spec",
+        "label": "JasonLo/lite-spec",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cranmer/cairn",
+        "label": "cranmer/cairn",
+        "type": "project",
+        "contributions": 30,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:driftless-star/driftless-star",
+        "label": "driftless-star/driftless-star",
+        "type": "project",
+        "contributions": 25,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:FoodAccessSimulator/FEAST-backend",
+        "label": "FoodAccessSimulator/FEAST-backend",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/talk-chep-2026",
+        "label": "matthewfeickert-talks/talk-chep-2026",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/yoda-feedstock",
+        "label": "conda-forge/yoda-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/best-in-slot",
+        "label": "JasonLo/best-in-slot",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:open-lambda/open-lambda.github.io",
+        "label": "open-lambda/open-lambda.github.io",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/pylhe-feedstock",
+        "label": "conda-forge/pylhe-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/neo-jax-feedstock",
+        "label": "conda-forge/neo-jax-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ICICLE-ai/FASS-Frontend",
+        "label": "ICICLE-ai/FASS-Frontend",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:simulation-based-inference/simulation-based-inference.github.io",
+        "label": "simulation-based-inference/simulation-based-inference.github.io",
+        "type": "project",
+        "contributions": 61,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/badgercompute-binder-example",
+        "label": "UW-Madison-DSI/badgercompute-binder-example",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/FEAST_educational_materials",
+        "label": "UW-Madison-DSI/FEAST_educational_materials",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/uscms-idap-training",
+        "label": "iris-hep/uscms-idap-training",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:uwplasma/vmec_jax",
+        "label": "uwplasma/vmec_jax",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pavelzw/pixi-browse",
+        "label": "pavelzw/pixi-browse",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:uwplasma/NEOPAX",
+        "label": "uwplasma/NEOPAX",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/talk-odsl-forum-seminar-2023",
+        "label": "matthewfeickert-talks/talk-odsl-forum-seminar-2023",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/ag_forecasting_api",
+        "label": "UW-Madison-DSI/ag_forecasting_api",
+        "type": "project",
+        "contributions": 38,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:CHTC/templates-GPUs",
+        "label": "CHTC/templates-GPUs",
+        "type": "project",
+        "contributions": 10,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:snotskie/EpistemicNetworkAnalysis.jl",
+        "label": "snotskie/EpistemicNetworkAnalysis.jl",
+        "type": "project",
+        "contributions": 20,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/pyne-feedstock",
+        "label": "conda-forge/pyne-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/spectraxgk-feedstock",
+        "label": "conda-forge/spectraxgk-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/sfincs-jax-feedstock",
+        "label": "conda-forge/sfincs-jax-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/booz-xform-jax-feedstock",
+        "label": "conda-forge/booz-xform-jax-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/moab-feedstock",
+        "label": "conda-forge/moab-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:PlasmaControl/DESC",
+        "label": "PlasmaControl/DESC",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/instructor-training",
+        "label": "carpentries/instructor-training",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/looptools-feedstock",
+        "label": "conda-forge/looptools-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/skill-sommelier",
+        "label": "JasonLo/skill-sommelier",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/talk-aps-global-physics-summit-2026",
+        "label": "matthewfeickert-talks/talk-aps-global-physics-summit-2026",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/hydra-image-processor-feedstock",
+        "label": "conda-forge/hydra-image-processor-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:uwplasma/SPECTRAX-GK",
+        "label": "uwplasma/SPECTRAX-GK",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/better-research-software-r",
+        "label": "carpentries-incubator/better-research-software-r",
+        "type": "project",
+        "contributions": 13,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:AIAmplitudes/AIAmplitudes_common_public",
+        "label": "AIAmplitudes/AIAmplitudes_common_public",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scientific-python/upload-nightly-action",
+        "label": "scientific-python/upload-nightly-action",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/uw-design-system",
+        "label": "UW-Madison-DSI/uw-design-system",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ICICLE-ai/Food-Access-Model",
+        "label": "ICICLE-ai/Food-Access-Model",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/desc-opt-feedstock",
+        "label": "conda-forge/desc-opt-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/tex2pix-feedstock",
+        "label": "conda-forge/tex2pix-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/which-feedstock",
+        "label": "conda-forge/which-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:f0uriest/orthax",
+        "label": "f0uriest/orthax",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/cms-combine-feedstock",
+        "label": "conda-forge/cms-combine-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/sfincs-feedstock",
+        "label": "conda-forge/sfincs-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/wiscopy",
+        "label": "UW-Madison-DSI/wiscopy",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/abscab-cpp-feedstock",
+        "label": "conda-forge/abscab-cpp-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scikit-hep/pyhf",
+        "label": "scikit-hep/pyhf",
+        "type": "project",
+        "contributions": 25,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/func_adl_xAOD",
+        "label": "iris-hep/func_adl_xAOD",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/booz_xform-feedstock",
+        "label": "conda-forge/booz_xform-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/lhapdf-feedstock",
+        "label": "conda-forge/lhapdf-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/conda-forge.github.io",
+        "label": "conda-forge/conda-forge.github.io",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/xtensor-python-feedstock",
+        "label": "conda-forge/xtensor-python-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/simsopt-feedstock",
+        "label": "conda-forge/simsopt-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/root-feedstock",
+        "label": "conda-forge/root-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/jupytergis-neon-open-data-exploration",
+        "label": "matthewfeickert/jupytergis-neon-open-data-exploration",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/weather_api",
+        "label": "UW-Madison-DSI/weather_api",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/lwtnn-feedstock",
+        "label": "conda-forge/lwtnn-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:CheckMATE2/checkmate2",
+        "label": "CheckMATE2/checkmate2",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/flax-feedstock",
+        "label": "conda-forge/flax-feedstock",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/gpjax-feedstock",
+        "label": "conda-forge/gpjax-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/orbax-checkpoint-feedstock",
+        "label": "conda-forge/orbax-checkpoint-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/dart-sass-feedstock",
+        "label": "conda-forge/dart-sass-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:snakemake/snakemake",
+        "label": "snakemake/snakemake",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/fastframes-feedstock",
+        "label": "conda-forge/fastframes-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:bioconda/bioconda-recipes",
+        "label": "bioconda/bioconda-recipes",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/pixi-introduction",
+        "label": "carpentries-incubator/pixi-introduction",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/reproducible-ml-workflows",
+        "label": "carpentries-incubator/reproducible-ml-workflows",
+        "type": "project",
+        "contributions": 43,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:conda-forge/docker-images",
+        "label": "conda-forge/docker-images",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/lesson-development-training",
+        "label": "carpentries/lesson-development-training",
+        "type": "project",
+        "contributions": 52,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/rivet-feedstock",
+        "label": "conda-forge/rivet-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/reproducible-ml-for-scientists-with-pixi-scipy-2025",
+        "label": "matthewfeickert-talks/reproducible-ml-for-scientists-with-pixi-scipy-2025",
+        "type": "project",
+        "contributions": 24,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/uw-s3",
+        "label": "JasonLo/uw-s3",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hep-packaging-coordination/feynhiggs-release-mirror",
+        "label": "hep-packaging-coordination/feynhiggs-release-mirror",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/workbench-docs",
+        "label": "carpentries/workbench-docs",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/rundec-feedstock",
+        "label": "conda-forge/rundec-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/klfitter-feedstock",
+        "label": "conda-forge/klfitter-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/delphes-feedstock",
+        "label": "conda-forge/delphes-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/bayesian-analysis-toolkit-feedstock",
+        "label": "conda-forge/bayesian-analysis-toolkit-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/poster-chtc-researcher-forum-2026",
+        "label": "matthewfeickert/poster-chtc-researcher-forum-2026",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/mplhep-feedstock",
+        "label": "conda-forge/mplhep-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:svalinn/DAGMC",
+        "label": "svalinn/DAGMC",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/reproducible-cuda-workflows-with-pixi-scipy-2026",
+        "label": "matthewfeickert-talks/reproducible-cuda-workflows-with-pixi-scipy-2026",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pshriwise/double-down",
+        "label": "pshriwise/double-down",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/openmc-feedstock",
+        "label": "conda-forge/openmc-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:openmc-dev/openmc",
+        "label": "openmc-dev/openmc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/rsync-feedstock",
+        "label": "conda-forge/rsync-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:lwtnn/lwtnn",
+        "label": "lwtnn/lwtnn",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/workshop-template",
+        "label": "carpentries/workshop-template",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/smodels-feedstock",
+        "label": "conda-forge/smodels-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/better-research-software",
+        "label": "carpentries-incubator/better-research-software",
+        "type": "project",
+        "contributions": 24,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scipy-conference/scipy-conference",
+        "label": "scipy-conference/scipy-conference",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/python-text-analysis",
+        "label": "carpentries-incubator/python-text-analysis",
+        "type": "project",
+        "contributions": 16,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:carpentries-incubator/python-interactive-data-visualizations",
+        "label": "carpentries-incubator/python-interactive-data-visualizations",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/git-novice-branch-pr",
+        "label": "carpentries-incubator/git-novice-branch-pr",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda/conda",
+        "label": "conda/conda",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/flit-core-feedstock",
+        "label": "conda-forge/flit-core-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/governance",
+        "label": "swcarpentry/governance",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:Canop/dysk",
+        "label": "Canop/dysk",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/dysk-feedstock",
+        "label": "conda-forge/dysk-feedstock",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/tilia_api",
+        "label": "NeotomaDB/tilia_api",
+        "type": "project",
+        "contributions": 10,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/swc-ext-python",
+        "label": "carpentries-incubator/swc-ext-python",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/cernopendata-client-feedstock",
+        "label": "conda-forge/cernopendata-client-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:karimknaebel/turm",
+        "label": "karimknaebel/turm",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/turm-feedstock",
+        "label": "conda-forge/turm-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pytries/datrie",
+        "label": "pytries/datrie",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/anaconda-cli-base-feedstock",
+        "label": "conda-forge/anaconda-cli-base-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:sbi-dev/sbi",
+        "label": "sbi-dev/sbi",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scipy-conference/scipy_proceedings",
+        "label": "scipy-conference/scipy_proceedings",
+        "type": "project",
+        "contributions": 2,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:ssec/WAF_ML_Tutorial_Part2",
+        "label": "ssec/WAF_ML_Tutorial_Part2",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hep-packaging-coordination/mg5amcnlo-release-mirror",
+        "label": "hep-packaging-coordination/mg5amcnlo-release-mirror",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/iregi-feedstock",
+        "label": "conda-forge/iregi-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/pyslha-feedstock",
+        "label": "conda-forge/pyslha-feedstock",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/gitlab-novice-branch-pr",
+        "label": "UW-Madison-DataScience/gitlab-novice-branch-pr",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/report-urssi-fellowship-2025",
+        "label": "matthewfeickert/report-urssi-fellowship-2025",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:prashjha/PeriDEM",
+        "label": "prashjha/PeriDEM",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scikit-hep/scikit-hep-testdata",
+        "label": "scikit-hep/scikit-hep-testdata",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/acts-feedstock",
+        "label": "conda-forge/acts-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pyhf/pyhf-tutorial",
+        "label": "pyhf/pyhf-tutorial",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/spheno-feedstock",
+        "label": "conda-forge/spheno-feedstock",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/integration-challenge",
+        "label": "iris-hep/integration-challenge",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/miapbp-pixi-demo",
+        "label": "matthewfeickert/miapbp-pixi-demo",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/open_source_survey_results_myst",
+        "label": "UW-Madison-DSI/open_source_survey_results_myst",
+        "type": "project",
+        "contributions": 23,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/pytorch-gpu-pixi-example",
+        "label": "matthewfeickert/pytorch-gpu-pixi-example",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:si2-urssi/website",
+        "label": "si2-urssi/website",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:mcsc-impact-climate/Geo-TIDE",
+        "label": "mcsc-impact-climate/Geo-TIDE",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/bear",
+        "label": "UW-Madison-DSI/bear",
+        "type": "project",
+        "contributions": 10,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pyOpenSci/python-package-guide",
+        "label": "pyOpenSci/python-package-guide",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/pixi-docker-chtc",
+        "label": "UW-Madison-DSI/pixi-docker-chtc",
+        "type": "project",
+        "contributions": 14,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NEONScience/NEON-utilities-python",
+        "label": "NEONScience/NEON-utilities-python",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NEONScience/NEON-utilities",
+        "label": "NEONScience/NEON-utilities",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/neonutilities-feedstock",
+        "label": "conda-forge/neonutilities-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hep-packaging-coordination/qcdloop-release-mirror",
+        "label": "hep-packaging-coordination/qcdloop-release-mirror",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:atlas-outreach-data-tools/open-data-projects",
+        "label": "atlas-outreach-data-tools/open-data-projects",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/talk-pyhep-2025",
+        "label": "matthewfeickert-talks/talk-pyhep-2025",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/pyhep-notebook-talk-example",
+        "label": "matthewfeickert/pyhep-notebook-talk-example",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/shell-novice",
+        "label": "swcarpentry/shell-novice",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:Snakemonster/staged-recipes",
+        "label": "Snakemonster/staged-recipes",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:HSF/hsf.github.io",
+        "label": "HSF/hsf.github.io",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/countries_async",
+        "label": "UW-Madison-DataScience/countries_async",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SModelS/smodels",
+        "label": "SModelS/smodels",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hugovk/norwegianblue",
+        "label": "hugovk/norwegianblue",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/pyhf-feedstock",
+        "label": "conda-forge/pyhf-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/landingpagev3",
+        "label": "NeotomaDB/landingpagev3",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:gstagnit/eMELA",
+        "label": "gstagnit/eMELA",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/mg5amcnlo-pythia8-interface-feedstock",
+        "label": "conda-forge/mg5amcnlo-pythia8-interface-feedstock",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/mg5amcnlo-feedstock",
+        "label": "conda-forge/mg5amcnlo-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/libtirpc-feedstock",
+        "label": "conda-forge/libtirpc-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/ospo.wisc.edu",
+        "label": "UW-Madison-DSI/ospo.wisc.edu",
+        "type": "project",
+        "contributions": 24,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:conda-forge/hepdata-lib-feedstock",
+        "label": "conda-forge/hepdata-lib-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/oneloop-feedstock",
+        "label": "conda-forge/oneloop-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/ninja-hep-ph-feedstock",
+        "label": "conda-forge/ninja-hep-ph-feedstock",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/emela-feedstock",
+        "label": "conda-forge/emela-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/qcdloop-fortran-feedstock",
+        "label": "conda-forge/qcdloop-fortran-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/lgatr-feedstock",
+        "label": "conda-forge/lgatr-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:thomaspinder/GPJax",
+        "label": "thomaspinder/GPJax",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/nvidia-gpu-ml-library-test",
+        "label": "matthewfeickert/nvidia-gpu-ml-library-test",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:prefix-dev/pixi-docker",
+        "label": "prefix-dev/pixi-docker",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/draft-scipy-2025-proceedings-submission",
+        "label": "matthewfeickert/draft-scipy-2025-proceedings-submission",
+        "type": "project",
+        "contributions": 11,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Brown-Lab/Anatalyst",
+        "label": "UW-Brown-Lab/Anatalyst",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/nsbi-lhc-toolkit",
+        "label": "iris-hep/nsbi-lhc-toolkit",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/islp-feedstock",
+        "label": "conda-forge/islp-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/api_nodetest",
+        "label": "NeotomaDB/api_nodetest",
+        "type": "project",
+        "contributions": 53,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/pixi-cuda-lesson",
+        "label": "matthewfeickert/pixi-cuda-lesson",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/workshop-testing",
+        "label": "matthewfeickert/workshop-testing",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ilmcconnell/reproducible-ml-workflows",
+        "label": "ilmcconnell/reproducible-ml-workflows",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:RKHashmani/pixi-cuda-lesson",
+        "label": "RKHashmani/pixi-cuda-lesson",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/reproducible-ml-lesson",
+        "label": "matthewfeickert/reproducible-ml-lesson",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/r-neonutilities-feedstock",
+        "label": "conda-forge/r-neonutilities-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/pelican-data-loader",
+        "label": "UW-Madison-DSI/pelican-data-loader",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert-talks/reproducible-ml-for-scientists-workshop",
+        "label": "matthewfeickert-talks/reproducible-ml-for-scientists-workshop",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/sandpaper",
+        "label": "carpentries/sandpaper",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:MoAly98/GRAEP",
+        "label": "MoAly98/GRAEP",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:prefix-dev/pixi",
+        "label": "prefix-dev/pixi",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:firelab/gdalraster",
+        "label": "firelab/gdalraster",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/cvmfs-venv",
+        "label": "matthewfeickert/cvmfs-venv",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/r-gdalraster-feedstock",
+        "label": "conda-forge/r-gdalraster-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/brev-feedstock",
+        "label": "conda-forge/brev-feedstock",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/clean_backup",
+        "label": "NeotomaDB/clean_backup",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/us-atlas-idap-training-2025",
+        "label": "iris-hep/us-atlas-idap-training-2025",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:brevdev/brev-cli",
+        "label": "brevdev/brev-cli",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/awkward-cpp-feedstock",
+        "label": "conda-forge/awkward-cpp-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/coffea-feedstock",
+        "label": "conda-forge/coffea-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/countries",
+        "label": "UW-Madison-DataScience/countries",
+        "type": "project",
+        "contributions": 17,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:conda-forge/httpx-retries-feedstock",
+        "label": "conda-forge/httpx-retries-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cranmer/sbi-tutorial",
+        "label": "cranmer/sbi-tutorial",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/r-raster-vector-geospatial",
+        "label": "datacarpentry/r-raster-vector-geospatial",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/pixi-lesson",
+        "label": "matthewfeickert/pixi-lesson",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:RKHashmani/pixi-lesson",
+        "label": "RKHashmani/pixi-lesson",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:matthewfeickert/scipy-tutorial-proposal-2025",
+        "label": "matthewfeickert/scipy-tutorial-proposal-2025",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/atlas-mc-scanner-feedstock",
+        "label": "conda-forge/atlas-mc-scanner-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:conda-forge/func_adl_servicex_xaodr25-feedstock",
+        "label": "conda-forge/func_adl_servicex_xaodr25-feedstock",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:byandell-sysgen/qtl2shiny",
+        "label": "byandell-sysgen/qtl2shiny",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/crop_disease_forecasting_tool",
+        "label": "UW-Madison-DSI/crop_disease_forecasting_tool",
+        "type": "project",
+        "contributions": 117,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:AttieLab-Systems-Genetics/qtlApp",
+        "label": "AttieLab-Systems-Genetics/qtlApp",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/docker-introduction",
+        "label": "carpentries-incubator/docker-introduction",
+        "type": "project",
+        "contributions": 17,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:kyllan16693/Data-Science-Salary-Prediction",
+        "label": "kyllan16693/Data-Science-Salary-Prediction",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/ag_forecasting_app",
+        "label": "UW-Madison-DSI/ag_forecasting_app",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:earthlab-education/Earth-Analytics-AY24",
+        "label": "earthlab-education/Earth-Analytics-AY24",
+        "type": "project",
+        "contributions": 17,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:tobyhodges/upgraded-funicular",
+        "label": "tobyhodges/upgraded-funicular",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cersonsky-lab/website",
+        "label": "cersonsky-lab/website",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:mariaob1201/FETCH-challenge",
+        "label": "mariaob1201/FETCH-challenge",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:tobyhodges/studious-happiness",
+        "label": "tobyhodges/studious-happiness",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:kyllan16693/MLOps",
+        "label": "kyllan16693/MLOps",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/governance",
+        "label": "carpentries/governance",
+        "type": "project",
+        "contributions": 11,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:d-paul-1/Article-Relevance-Project",
+        "label": "d-paul-1/Article-Relevance-Project",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/shell-genomics",
+        "label": "datacarpentry/shell-genomics",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:jsgro/visualization-shiny-dashboards",
+        "label": "jsgro/visualization-shiny-dashboards",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/api_dockers",
+        "label": "NeotomaDB/api_dockers",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:Tiny-Earth/ScientificTeachingCourse",
+        "label": "Tiny-Earth/ScientificTeachingCourse",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:byandell-sysgen/foundr",
+        "label": "byandell-sysgen/foundr",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:erwinlares/intermediate-software-dev-r",
+        "label": "erwinlares/intermediate-software-dev-r",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:colbrydi/easybuild_local",
+        "label": "colbrydi/easybuild_local",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/soil_organic_carbon_ml_lab",
+        "label": "UW-Madison-DSI/soil_organic_carbon_ml_lab",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:byandell/ESIIL",
+        "label": "byandell/ESIIL",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:earthlab-education/climate-coding-challenge-byandell",
+        "label": "earthlab-education/climate-coding-challenge-byandell",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:flor14/neotoma-lakes",
+        "label": "flor14/neotoma-lakes",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/ask-xDD",
+        "label": "UW-Madison-DSI/ask-xDD",
+        "type": "project",
+        "contributions": 22,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:rqtl/qtl2",
+        "label": "rqtl/qtl2",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-xDD/text2graph_llm",
+        "label": "UW-xDD/text2graph_llm",
+        "type": "project",
+        "contributions": 21,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:UW-Madison-DSI/faculty-search",
+        "label": "UW-Madison-DSI/faculty-search",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/Current_Workshop",
+        "label": "NeotomaDB/Current_Workshop",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/2023-06-05-uwmadison-dc",
+        "label": "UW-Madison-DataScience/2023-06-05-uwmadison-dc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/OSPO-al-folio-site",
+        "label": "UW-Madison-DSI/OSPO-al-folio-site",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:CU-ESIIL/Innovation-Summit-2024",
+        "label": "CU-ESIIL/Innovation-Summit-2024",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:kyllan16693/flight-delay-prediction",
+        "label": "kyllan16693/flight-delay-prediction",
+        "type": "project",
+        "contributions": 10,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:MLMI2-CSSI/foundry",
+        "label": "MLMI2-CSSI/foundry",
+        "type": "project",
+        "contributions": 9,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/plant-pathology-image-processor",
+        "label": "UW-Madison-DSI/plant-pathology-image-processor",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/ospo.wisc.edu-version-1.0",
+        "label": "UW-Madison-DSI/ospo.wisc.edu-version-1.0",
+        "type": "project",
+        "contributions": 4,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:UW-Madison-DSI/ospo-stats",
+        "label": "UW-Madison-DSI/ospo-stats",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:mariaob1201/serving_a_credit_loan_model",
+        "label": "mariaob1201/serving_a_credit_loan_model",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Macrostrat/CriticalMAAS",
+        "label": "UW-Macrostrat/CriticalMAAS",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/genomics-r-intro",
+        "label": "datacarpentry/genomics-r-intro",
+        "type": "project",
+        "contributions": 9,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/sandpaper-docs",
+        "label": "carpentries/sandpaper-docs",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/uw-jekyll-theme",
+        "label": "UW-Madison-DSI/uw-jekyll-theme",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ComBEE-UW-Madison/studyGroup",
+        "label": "ComBEE-UW-Madison/studyGroup",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/lessondev-trainer-training",
+        "label": "carpentries/lessondev-trainer-training",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ilmcconnell/idealforms",
+        "label": "ilmcconnell/idealforms",
+        "type": "project",
+        "contributions": 12,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/genomics-workshop",
+        "label": "datacarpentry/genomics-workshop",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/Covid19-Wastewater-Analysis",
+        "label": "UW-Madison-DSI/Covid19-Wastewater-Analysis",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/Covid19Wastewater",
+        "label": "UW-Madison-DSI/Covid19Wastewater",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:funcx-faas/funcx-container-service",
+        "label": "funcx-faas/funcx-container-service",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:annahaensch/Centrism",
+        "label": "annahaensch/Centrism",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:snotskie/python-text-analysis",
+        "label": "snotskie/python-text-analysis",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:tac-hep/tac-hep.github.io",
+        "label": "tac-hep/tac-hep.github.io",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:2023-spring-jsf-online/components",
+        "label": "2023-spring-jsf-online/components",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/python-intermediate-development",
+        "label": "carpentries-incubator/python-intermediate-development",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:qsideinstitute/SToPA",
+        "label": "qsideinstitute/SToPA",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-COSMOS/Cosmos",
+        "label": "UW-COSMOS/Cosmos",
+        "type": "project",
+        "contributions": 9,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:annahaensch/hela",
+        "label": "annahaensch/hela",
+        "type": "project",
+        "contributions": 20,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JasonLo/connectionist",
+        "label": "JasonLo/connectionist",
+        "type": "project",
+        "contributions": 9,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:fishtree-attempt/instructor-training",
+        "label": "fishtree-attempt/instructor-training",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/julia-novice",
+        "label": "carpentries-incubator/julia-novice",
+        "type": "project",
+        "contributions": 2,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:annahaensch/OpArt_Curation_Tool",
+        "label": "annahaensch/OpArt_Curation_Tool",
+        "type": "project",
+        "contributions": 13,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/neotoma2",
+        "label": "NeotomaDB/neotoma2",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:si2-urssi/plan",
+        "label": "si2-urssi/plan",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:annahaensch/ODyN",
+        "label": "annahaensch/ODyN",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ropensci/neotoma",
+        "label": "ropensci/neotoma",
+        "type": "project",
+        "contributions": 94,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:corybrunson/2022-09-12-usgs-online",
+        "label": "corybrunson/2022-09-12-usgs-online",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SimonGoring/neotoma",
+        "label": "SimonGoring/neotoma",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/python-novice-gapminder",
+        "label": "swcarpentry/python-novice-gapminder",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/workshop-demo",
+        "label": "UW-Madison-DataScience/workshop-demo",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/r-intro-geospatial",
+        "label": "datacarpentry/r-intro-geospatial",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentrycon/carpentrycon2022",
+        "label": "carpentrycon/carpentrycon2022",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/jekyll-pages-novice",
+        "label": "carpentries-incubator/jekyll-pages-novice",
+        "type": "project",
+        "contributions": 25,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/PPL_OutlierPrediction",
+        "label": "UW-Madison-DSI/PPL_OutlierPrediction",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/high-dimensional-analysis-in-python",
+        "label": "carpentries-incubator/high-dimensional-analysis-in-python",
+        "type": "project",
+        "contributions": 2,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:datacarpentry/OpenRefine-ecology-lesson",
+        "label": "datacarpentry/OpenRefine-ecology-lesson",
+        "type": "project",
+        "contributions": 2,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:NeotomaDB/bulkUploader",
+        "label": "NeotomaDB/bulkUploader",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:earthcube/NotebookTemplates",
+        "label": "earthcube/NotebookTemplates",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/r-novice-gapminder",
+        "label": "swcarpentry/r-novice-gapminder",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:janosh/awesome-normalizing-flows",
+        "label": "janosh/awesome-normalizing-flows",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:Paleostats/ProxyUQ",
+        "label": "Paleostats/ProxyUQ",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/ndbLandingPage",
+        "label": "NeotomaDB/ndbLandingPage",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:sstevens2/instructor-training",
+        "label": "sstevens2/instructor-training",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/widget",
+        "label": "throughput-ec/widget",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:megarcia/HTCondor_examples",
+        "label": "megarcia/HTCondor_examples",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:FANTM/devlprd",
+        "label": "FANTM/devlprd",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/docs.carpentries.org-archive",
+        "label": "carpentries/docs.carpentries.org-archive",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:FANTM/pydevlpr",
+        "label": "FANTM/pydevlpr",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/ThesisIsCode",
+        "label": "throughput-ec/ThesisIsCode",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:disulfidebond/APOLLO_archive",
+        "label": "disulfidebond/APOLLO_archive",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/Neotoma_SQL",
+        "label": "NeotomaDB/Neotoma_SQL",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/R-custom",
+        "label": "UW-Madison-DataScience/R-custom",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/git-novice",
+        "label": "swcarpentry/git-novice",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-lab/deep-learning-intro",
+        "label": "carpentries-lab/deep-learning-intro",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:arduino/library-registry",
+        "label": "arduino/library-registry",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/R-ecology-lesson",
+        "label": "datacarpentry/R-ecology-lesson",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/geospatial-capstone",
+        "label": "UW-Madison-DataScience/geospatial-capstone",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:simonecid/Vaccinbot",
+        "label": "simonecid/Vaccinbot",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/GitPractices",
+        "label": "UW-Madison-DSI/GitPractices",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:datacarpentry/datacarpentry.github.io",
+        "label": "datacarpentry/datacarpentry.github.io",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scikit-hep/hist",
+        "label": "scikit-hep/hist",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scikit-hep/boost-histogram",
+        "label": "scikit-hep/boost-histogram",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:blue442/DS875",
+        "label": "blue442/DS875",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:annahaensch/TwitterAPIWorkshop",
+        "label": "annahaensch/TwitterAPIWorkshop",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries-incubator/study-groups",
+        "label": "carpentries-incubator/study-groups",
+        "type": "project",
+        "contributions": 10,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:MarlinRLee/AFDSI-Template-repository",
+        "label": "MarlinRLee/AFDSI-Template-repository",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/instructor-training-bonus-modules",
+        "label": "carpentries/instructor-training-bonus-modules",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:eyackulic/throughput-lipd",
+        "label": "eyackulic/throughput-lipd",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:tobyhodges/lesson-sprint-recommendations",
+        "label": "tobyhodges/lesson-sprint-recommendations",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cranmer/TheoryAndPractice",
+        "label": "cranmer/TheoryAndPractice",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/geospatial-workshop",
+        "label": "UW-Madison-DataScience/geospatial-workshop",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:sstevens2/geospatial-workshop",
+        "label": "sstevens2/geospatial-workshop",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/glosario",
+        "label": "carpentries/glosario",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SteveGoldstein/pandemic",
+        "label": "SteveGoldstein/pandemic",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pymc-devs/pymc",
+        "label": "pymc-devs/pymc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:pydata/xarray",
+        "label": "pydata/xarray",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:maglet/uw-r-workshops",
+        "label": "maglet/uw-r-workshops",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:EarthLifeConsortium/elc_api",
+        "label": "EarthLifeConsortium/elc_api",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/throughput_api",
+        "label": "throughput-ec/throughput_api",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/throughput_vue",
+        "label": "throughput-ec/throughput_vue",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/github_scrapers",
+        "label": "throughput-ec/github_scrapers",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-xDD/xdd_website",
+        "label": "UW-xDD/xdd_website",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:saimtiaz/cs639mapscan",
+        "label": "saimtiaz/cs639mapscan",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DSI/group-testing",
+        "label": "UW-Madison-DSI/group-testing",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:peter-i-frazier/group-testing",
+        "label": "peter-i-frazier/group-testing",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:throughput-ec/UnacquiredSites",
+        "label": "throughput-ec/UnacquiredSites",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/maintainer-onboarding",
+        "label": "carpentries/maintainer-onboarding",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentrycon/carpentrycon2020",
+        "label": "carpentrycon/carpentrycon2020",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carlbfrederick/ohiCovidMetrics",
+        "label": "carlbfrederick/ohiCovidMetrics",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:RKHashmani/news-retrieval",
+        "label": "RKHashmani/news-retrieval",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:gradhep/relaxed",
+        "label": "gradhep/relaxed",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SteveGoldstein/Covid19computWI_R0",
+        "label": "SteveGoldstein/Covid19computWI_R0",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/organization-geospatial",
+        "label": "UW-Madison-DataScience/organization-geospatial",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cranmer/intro-exp-phys-II",
+        "label": "cranmer/intro-exp-phys-II",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ds3-nyu/Needs-Assessment-Survey",
+        "label": "ds3-nyu/Needs-Assessment-Survey",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:code-for-chapel-hill/NC-COVID-Support",
+        "label": "code-for-chapel-hill/NC-COVID-Support",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:EarthCubeGeochron/IRDDive",
+        "label": "EarthCubeGeochron/IRDDive",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SteveGoldstein/GBS_preprocessing",
+        "label": "SteveGoldstein/GBS_preprocessing",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/2020-01-22-uwmadison-swc",
+        "label": "UW-Madison-DataScience/2020-01-22-uwmadison-swc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:uw-madison-comps/R-plant-lesson",
+        "label": "uw-madison-comps/R-plant-lesson",
+        "type": "project",
+        "contributions": 22,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/instructor-development",
+        "label": "carpentries/instructor-development",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:sstevens2/genomics-workshop",
+        "label": "sstevens2/genomics-workshop",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SteveGoldstein/R-plant-lesson",
+        "label": "SteveGoldstein/R-plant-lesson",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scikit-hep/scikit-hep-orgstats",
+        "label": "scikit-hep/scikit-hep-orgstats",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:dme26/docker-introduction",
+        "label": "dme26/docker-introduction",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iris-hep/awesome-hep",
+        "label": "iris-hep/awesome-hep",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:julietteBruce/syzygycomputations",
+        "label": "julietteBruce/syzygycomputations",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:carpentries/carpentrycon",
+        "label": "carpentries/carpentrycon",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:DavidPageGroup/longevity",
+        "label": "DavidPageGroup/longevity",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:LFITaskForce/FlatironMeeting",
+        "label": "LFITaskForce/FlatironMeeting",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/neotoma",
+        "label": "NeotomaDB/neotoma",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/neotoma_lakes",
+        "label": "NeotomaDB/neotoma_lakes",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/2019-01-16-uwmadison-dc",
+        "label": "UW-Madison-DataScience/2019-01-16-uwmadison-dc",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/2019-01-14-uwmadison-swc",
+        "label": "UW-Madison-DataScience/2019-01-14-uwmadison-swc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ComBEE-UW-Madison/PythonStudyGroup",
+        "label": "ComBEE-UW-Madison/PythonStudyGroup",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iml-wg/HEP-ML-Resources",
+        "label": "iml-wg/HEP-ML-Resources",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:binder-examples/setup.py",
+        "label": "binder-examples/setup.py",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hsf-training/PyHEP-resources",
+        "label": "hsf-training/PyHEP-resources",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-DataScience/swcarpentry-workflows-in-practice",
+        "label": "UW-Madison-DataScience/swcarpentry-workflows-in-practice",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ComBEE-UW-Madison/2017-09-29-git-workshop",
+        "label": "ComBEE-UW-Madison/2017-09-29-git-workshop",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:sstevens2/2017-01-12-uwmadison",
+        "label": "sstevens2/2017-01-12-uwmadison",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:madminer-tool/madminer",
+        "label": "madminer-tool/madminer",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:badgerloop-software/pod3",
+        "label": "badgerloop-software/pod3",
+        "type": "project",
+        "contributions": 6,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:vnsriniv/Microbial-Omics",
+        "label": "vnsriniv/Microbial-Omics",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ComBEE-UW-Madison/RStudyGroup",
+        "label": "ComBEE-UW-Madison/RStudyGroup",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:PCMIP/workflow-paper",
+        "label": "PCMIP/workflow-paper",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:snotskie/just-soda",
+        "label": "snotskie/just-soda",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SimonGoring/EC_Network",
+        "label": "SimonGoring/EC_Network",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/Education_Paper",
+        "label": "NeotomaDB/Education_Paper",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:hadley/adv-r",
+        "label": "hadley/adv-r",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/website-archive",
+        "label": "swcarpentry/website-archive",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2017-08-22-uwmadison-dc",
+        "label": "UW-Madison-ACI/2017-08-22-uwmadison-dc",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2017-06-28-uwmadison-swc",
+        "label": "UW-Madison-ACI/2017-06-28-uwmadison-swc",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ropensci-archive/rcoreoa",
+        "label": "ropensci-archive/rcoreoa",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2017-06-19-uwmadison-dc",
+        "label": "UW-Madison-ACI/2017-06-19-uwmadison-dc",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JuliaLang/www_old.julialang.org",
+        "label": "JuliaLang/www_old.julialang.org",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:rqtl/qtl2geno",
+        "label": "rqtl/qtl2geno",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:rqtl/qtl2scan",
+        "label": "rqtl/qtl2scan",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:richardjtelford/palaeoSig",
+        "label": "richardjtelford/palaeoSig",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:blei-lab/edward",
+        "label": "blei-lab/edward",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:NeotomaDB/CrossRef_Publications",
+        "label": "NeotomaDB/CrossRef_Publications",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:scottsfarley93/scottsfarley93.github.io",
+        "label": "scottsfarley93/scottsfarley93.github.io",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SimonGoring/ShouldIStayOrShouldIGo",
+        "label": "SimonGoring/ShouldIStayOrShouldIGo",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:PalEON-Project/modeling_met_ensemble",
+        "label": "PalEON-Project/modeling_met_ensemble",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:rladies/praise",
+        "label": "rladies/praise",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2017-01-12-uwmadison",
+        "label": "UW-Madison-ACI/2017-01-12-uwmadison",
+        "type": "project",
+        "contributions": 4,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2017-01-10-uwmadison",
+        "label": "UW-Madison-ACI/2017-01-10-uwmadison",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:mossmatters/HybPiper",
+        "label": "mossmatters/HybPiper",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:kbroman/datacarpentry_R_2017-01-10",
+        "label": "kbroman/datacarpentry_R_2017-01-10",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:glouppe/paper-learning-to-pivot",
+        "label": "glouppe/paper-learning-to-pivot",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:WilliamsPaleoLab/WilliamsPaleoLab.github.io",
+        "label": "WilliamsPaleoLab/WilliamsPaleoLab.github.io",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:WilliamsPaleoLab/JoeThesis",
+        "label": "WilliamsPaleoLab/JoeThesis",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2016-08-29-uwmadison",
+        "label": "UW-Madison-ACI/2016-08-29-uwmadison",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:SimonGoring/WitnessTrees",
+        "label": "SimonGoring/WitnessTrees",
+        "type": "project",
+        "contributions": 5,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:PalEON-Project/PalEON-FIA",
+        "label": "PalEON-Project/PalEON-FIA",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/DEPRECATED-training-prep-2015-09",
+        "label": "swcarpentry/DEPRECATED-training-prep-2015-09",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:johnwilsonICON/txvis",
+        "label": "johnwilsonICON/txvis",
+        "type": "project",
+        "contributions": 16,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/2016-06-08-uwmadison",
+        "label": "UW-Madison-ACI/2016-06-08-uwmadison",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:diana-hep/carl",
+        "label": "diana-hep/carl",
+        "type": "project",
+        "contributions": 8,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:crazapplejuice/flags",
+        "label": "crazapplejuice/flags",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:everpub/openscienceprize",
+        "label": "everpub/openscienceprize",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:xuf12/2015-11-10-northwesternu",
+        "label": "xuf12/2015-11-10-northwesternu",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:thehackerwithin/wisconsin",
+        "label": "thehackerwithin/wisconsin",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:AstroHackWeek/AstroHackWeek2015",
+        "label": "AstroHackWeek/AstroHackWeek2015",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:ezcn/shell-genomics",
+        "label": "ezcn/shell-genomics",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:UW-Madison-ACI/boot-camps",
+        "label": "UW-Madison-ACI/boot-camps",
+        "type": "project",
+        "contributions": 4,
+        "members": 2,
+        "shared": true
+      },
+      {
+        "id": "p:LMFDB/lmfdb",
+        "label": "LMFDB/lmfdb",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:kpwelsh/Betrayal",
+        "label": "kpwelsh/Betrayal",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:madipape/simplestats",
+        "label": "madipape/simplestats",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/training-course",
+        "label": "swcarpentry/training-course",
+        "type": "project",
+        "contributions": 9,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swcarpentry/r-novice-inflammation",
+        "label": "swcarpentry/r-novice-inflammation",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:recast-hep/recast-github-webhooks",
+        "label": "recast-hep/recast-github-webhooks",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:iglpdc/git-tutorial-practice",
+        "label": "iglpdc/git-tutorial-practice",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:plotly/Plotly.jl",
+        "label": "plotly/Plotly.jl",
+        "type": "project",
+        "contributions": 3,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:cshimmin/hmet-fit",
+        "label": "cshimmin/hmet-fit",
+        "type": "project",
+        "contributions": 2,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:gidden/simplestats",
+        "label": "gidden/simplestats",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:JuliaLang/METADATA.jl",
+        "label": "JuliaLang/METADATA.jl",
+        "type": "project",
+        "contributions": 7,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:uhussain/Higgs-SpinCP-analysis",
+        "label": "uhussain/Higgs-SpinCP-analysis",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:mattphotonman/2014-03-17-nyu-exercises",
+        "label": "mattphotonman/2014-03-17-nyu-exercises",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:astrophysaxist/simplestats",
+        "label": "astrophysaxist/simplestats",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      },
+      {
+        "id": "p:swyp/hackSwyp",
+        "label": "swyp/hackSwyp",
+        "type": "project",
+        "contributions": 1,
+        "members": 1,
+        "shared": false
+      }
+    ],
+    "links": [
+      {
+        "source": "m:cranmer",
+        "target": "p:iris-hep/iris-hep.github.io",
+        "weight": 59
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/iris-hep.github.io",
+        "weight": 11
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/fastbdt-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-papers/chep-2026-proceedings-hep-packaging-coordination",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/contur-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:hep-packaging-coordination/.github",
+        "weight": 12
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/admin-requests",
+        "weight": 10
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/vmec-jax-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/interpax-fft-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/staged-recipes",
+        "weight": 35
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/phmsci756-genomics-r-intro",
+        "weight": 19
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/R-gitlab-lesson",
+        "weight": 25
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/skill-cellar",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/lite-spec",
+        "weight": 3
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:cranmer/cairn",
+        "weight": 29
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:cranmer/cairn",
+        "weight": 1
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:driftless-star/driftless-star",
+        "weight": 13
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:driftless-star/driftless-star",
+        "weight": 12
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:FoodAccessSimulator/FEAST-backend",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/talk-chep-2026",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/yoda-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/best-in-slot",
+        "weight": 1
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:open-lambda/open-lambda.github.io",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/pylhe-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/neo-jax-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:ICICLE-ai/FASS-Frontend",
+        "weight": 8
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:simulation-based-inference/simulation-based-inference.github.io",
+        "weight": 61
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:UW-Madison-DSI/badgercompute-binder-example",
+        "weight": 7
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:UW-Madison-DSI/FEAST_educational_materials",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/uscms-idap-training",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:uwplasma/vmec_jax",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:pavelzw/pixi-browse",
+        "weight": 1
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:uwplasma/NEOPAX",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/talk-odsl-forum-seminar-2023",
+        "weight": 4
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:UW-Madison-DSI/ag_forecasting_api",
+        "weight": 38
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:CHTC/templates-GPUs",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:CHTC/templates-GPUs",
+        "weight": 8
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:snotskie/EpistemicNetworkAnalysis.jl",
+        "weight": 20
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/pyne-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/spectraxgk-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/sfincs-jax-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/booz-xform-jax-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/moab-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:PlasmaControl/DESC",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/instructor-training",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/looptools-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/skill-sommelier",
+        "weight": 7
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/talk-aps-global-physics-summit-2026",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/hydra-image-processor-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:uwplasma/SPECTRAX-GK",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/better-research-software-r",
+        "weight": 13
+      },
+      {
+        "source": "m:garrettmerz",
+        "target": "p:AIAmplitudes/AIAmplitudes_common_public",
+        "weight": 7
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:scientific-python/upload-nightly-action",
+        "weight": 5
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:UW-Madison-DSI/uw-design-system",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:ICICLE-ai/Food-Access-Model",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/desc-opt-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/tex2pix-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/which-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:f0uriest/orthax",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/cms-combine-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/sfincs-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-Madison-DSI/wiscopy",
+        "weight": 8
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/abscab-cpp-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:scikit-hep/pyhf",
+        "weight": 25
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/func_adl_xAOD",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/booz_xform-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/lhapdf-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/conda-forge.github.io",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/xtensor-python-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/simsopt-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/root-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/jupytergis-neon-open-data-exploration",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-Madison-DSI/weather_api",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/lwtnn-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:CheckMATE2/checkmate2",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/flax-feedstock",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/gpjax-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/orbax-checkpoint-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/dart-sass-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:snakemake/snakemake",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/fastframes-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:bioconda/bioconda-recipes",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:carpentries-incubator/pixi-introduction",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/reproducible-ml-workflows",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:carpentries-incubator/reproducible-ml-workflows",
+        "weight": 41
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/docker-images",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/lesson-development-training",
+        "weight": 52
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/rivet-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/reproducible-ml-for-scientists-with-pixi-scipy-2025",
+        "weight": 24
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/uw-s3",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:hep-packaging-coordination/feynhiggs-release-mirror",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:carpentries/workbench-docs",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/rundec-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/klfitter-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/delphes-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/bayesian-analysis-toolkit-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/poster-chtc-researcher-forum-2026",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/mplhep-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:svalinn/DAGMC",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/reproducible-cuda-workflows-with-pixi-scipy-2026",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:pshriwise/double-down",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/openmc-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:openmc-dev/openmc",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/rsync-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:lwtnn/lwtnn",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/workshop-template",
+        "weight": 8
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/smodels-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/better-research-software",
+        "weight": 24
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:scipy-conference/scipy-conference",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/python-text-analysis",
+        "weight": 9
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:carpentries-incubator/python-text-analysis",
+        "weight": 7
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/python-interactive-data-visualizations",
+        "weight": 7
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/git-novice-branch-pr",
+        "weight": 8
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda/conda",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/flit-core-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/governance",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:Canop/dysk",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/dysk-feedstock",
+        "weight": 4
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/tilia_api",
+        "weight": 10
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/swc-ext-python",
+        "weight": 12
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/cernopendata-client-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:karimknaebel/turm",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/turm-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:pytries/datrie",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/anaconda-cli-base-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:sbi-dev/sbi",
+        "weight": 1
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:scipy-conference/scipy_proceedings",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:scipy-conference/scipy_proceedings",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:ssec/WAF_ML_Tutorial_Part2",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:hep-packaging-coordination/mg5amcnlo-release-mirror",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/iregi-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/pyslha-feedstock",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/gitlab-novice-branch-pr",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/report-urssi-fellowship-2025",
+        "weight": 12
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:prashjha/PeriDEM",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:scikit-hep/scikit-hep-testdata",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/acts-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:pyhf/pyhf-tutorial",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/spheno-feedstock",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/integration-challenge",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/miapbp-pixi-demo",
+        "weight": 7
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:UW-Madison-DSI/open_source_survey_results_myst",
+        "weight": 23
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/pytorch-gpu-pixi-example",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:si2-urssi/website",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:mcsc-impact-climate/Geo-TIDE",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Madison-DSI/bear",
+        "weight": 10
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:pyOpenSci/python-package-guide",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:UW-Madison-DSI/pixi-docker-chtc",
+        "weight": 14
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:NEONScience/NEON-utilities-python",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:NEONScience/NEON-utilities",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/neonutilities-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:hep-packaging-coordination/qcdloop-release-mirror",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:atlas-outreach-data-tools/open-data-projects",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/talk-pyhep-2025",
+        "weight": 12
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/pyhep-notebook-talk-example",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/shell-novice",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:Snakemonster/staged-recipes",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:HSF/hsf.github.io",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/countries_async",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:SModelS/smodels",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:hugovk/norwegianblue",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/pyhf-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/landingpagev3",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:gstagnit/eMELA",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/mg5amcnlo-pythia8-interface-feedstock",
+        "weight": 3
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/mg5amcnlo-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/libtirpc-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:amegahed",
+        "target": "p:UW-Madison-DSI/ospo.wisc.edu",
+        "weight": 4
+      },
+      {
+        "source": "m:amkitt",
+        "target": "p:UW-Madison-DSI/ospo.wisc.edu",
+        "weight": 20
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/hepdata-lib-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/oneloop-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/ninja-hep-ph-feedstock",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/emela-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/qcdloop-fortran-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/lgatr-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:thomaspinder/GPJax",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/nvidia-gpu-ml-library-test",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:prefix-dev/pixi-docker",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/draft-scipy-2025-proceedings-submission",
+        "weight": 11
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:UW-Brown-Lab/Anatalyst",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/nsbi-lhc-toolkit",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/islp-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/api_nodetest",
+        "weight": 53
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/pixi-cuda-lesson",
+        "weight": 4
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/workshop-testing",
+        "weight": 4
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:ilmcconnell/reproducible-ml-workflows",
+        "weight": 3
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:RKHashmani/pixi-cuda-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/reproducible-ml-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/r-neonutilities-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Madison-DSI/pelican-data-loader",
+        "weight": 5
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert-talks/reproducible-ml-for-scientists-workshop",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:carpentries/sandpaper",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:MoAly98/GRAEP",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:prefix-dev/pixi",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:firelab/gdalraster",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/cvmfs-venv",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/r-gdalraster-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/brev-feedstock",
+        "weight": 4
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/clean_backup",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:iris-hep/us-atlas-idap-training-2025",
+        "weight": 6
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:brevdev/brev-cli",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/awkward-cpp-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/coffea-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/countries",
+        "weight": 16
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-Madison-DataScience/countries",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/httpx-retries-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:cranmer/sbi-tutorial",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/r-raster-vector-geospatial",
+        "weight": 7
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/pixi-lesson",
+        "weight": 3
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:RKHashmani/pixi-lesson",
+        "weight": 2
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:matthewfeickert/scipy-tutorial-proposal-2025",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/atlas-mc-scanner-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "p:conda-forge/func_adl_servicex_xaodr25-feedstock",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:byandell-sysgen/qtl2shiny",
+        "weight": 1
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:UW-Madison-DSI/crop_disease_forecasting_tool",
+        "weight": 117
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:AttieLab-Systems-Genetics/qtlApp",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/docker-introduction",
+        "weight": 17
+      },
+      {
+        "source": "m:kyllan16693",
+        "target": "p:kyllan16693/Data-Science-Salary-Prediction",
+        "weight": 8
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:UW-Madison-DSI/ag_forecasting_app",
+        "weight": 4
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:earthlab-education/Earth-Analytics-AY24",
+        "weight": 17
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:tobyhodges/upgraded-funicular",
+        "weight": 2
+      },
+      {
+        "source": "m:ljecheme",
+        "target": "p:cersonsky-lab/website",
+        "weight": 1
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:mariaob1201/FETCH-challenge",
+        "weight": 12
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:tobyhodges/studious-happiness",
+        "weight": 1
+      },
+      {
+        "source": "m:kyllan16693",
+        "target": "p:kyllan16693/MLOps",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/governance",
+        "weight": 11
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:d-paul-1/Article-Relevance-Project",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/shell-genomics",
+        "weight": 4
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:jsgro/visualization-shiny-dashboards",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/api_dockers",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:Tiny-Earth/ScientificTeachingCourse",
+        "weight": 4
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:byandell-sysgen/foundr",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:erwinlares/intermediate-software-dev-r",
+        "weight": 1
+      },
+      {
+        "source": "m:kyllan16693",
+        "target": "p:colbrydi/easybuild_local",
+        "weight": 4
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:UW-Madison-DSI/soil_organic_carbon_ml_lab",
+        "weight": 7
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:byandell/ESIIL",
+        "weight": 6
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:earthlab-education/climate-coding-challenge-byandell",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:flor14/neotoma-lakes",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Madison-DSI/ask-xDD",
+        "weight": 22
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:rqtl/qtl2",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-xDD/text2graph_llm",
+        "weight": 5
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-xDD/text2graph_llm",
+        "weight": 16
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Madison-DSI/faculty-search",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/Current_Workshop",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/2023-06-05-uwmadison-dc",
+        "weight": 1
+      },
+      {
+        "source": "m:amegahed",
+        "target": "p:UW-Madison-DSI/OSPO-al-folio-site",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:CU-ESIIL/Innovation-Summit-2024",
+        "weight": 1
+      },
+      {
+        "source": "m:kyllan16693",
+        "target": "p:kyllan16693/flight-delay-prediction",
+        "weight": 10
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:MLMI2-CSSI/foundry",
+        "weight": 9
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-Madison-DSI/plant-pathology-image-processor",
+        "weight": 2
+      },
+      {
+        "source": "m:mservillon",
+        "target": "p:UW-Madison-DSI/ospo.wisc.edu-version-1.0",
+        "weight": 3
+      },
+      {
+        "source": "m:amkitt",
+        "target": "p:UW-Madison-DSI/ospo.wisc.edu-version-1.0",
+        "weight": 1
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Madison-DSI/ospo-stats",
+        "weight": 6
+      },
+      {
+        "source": "m:mariaob1201",
+        "target": "p:mariaob1201/serving_a_credit_loan_model",
+        "weight": 3
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:UW-Macrostrat/CriticalMAAS",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/genomics-r-intro",
+        "weight": 9
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/sandpaper-docs",
+        "weight": 2
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:UW-Madison-DSI/uw-jekyll-theme",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:ComBEE-UW-Madison/studyGroup",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/lessondev-trainer-training",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:ilmcconnell/idealforms",
+        "weight": 12
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/genomics-workshop",
+        "weight": 5
+      },
+      {
+        "source": "m:kyllan16693",
+        "target": "p:UW-Madison-DSI/Covid19-Wastewater-Analysis",
+        "weight": 1
+      },
+      {
+        "source": "m:marlinrlee",
+        "target": "p:UW-Madison-DSI/Covid19Wastewater",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:funcx-faas/funcx-container-service",
+        "weight": 8
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:annahaensch/Centrism",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:snotskie/python-text-analysis",
+        "weight": 2
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:tac-hep/tac-hep.github.io",
+        "weight": 1
+      },
+      {
+        "source": "m:mservillon",
+        "target": "p:2023-spring-jsf-online/components",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/python-intermediate-development",
+        "weight": 6
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:qsideinstitute/SToPA",
+        "weight": 7
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:UW-COSMOS/Cosmos",
+        "weight": 9
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:annahaensch/hela",
+        "weight": 20
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "p:JasonLo/connectionist",
+        "weight": 9
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:fishtree-attempt/instructor-training",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/julia-novice",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:carpentries-incubator/julia-novice",
+        "weight": 1
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:annahaensch/OpArt_Curation_Tool",
+        "weight": 13
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/neotoma2",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:si2-urssi/plan",
+        "weight": 1
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:annahaensch/ODyN",
+        "weight": 6
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:ropensci/neotoma",
+        "weight": 94
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:corybrunson/2022-09-12-usgs-online",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:SimonGoring/neotoma",
+        "weight": 8
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/python-novice-gapminder",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/workshop-demo",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/r-intro-geospatial",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentrycon/carpentrycon2022",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/jekyll-pages-novice",
+        "weight": 25
+      },
+      {
+        "source": "m:marlinrlee",
+        "target": "p:UW-Madison-DSI/PPL_OutlierPrediction",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:carpentries-incubator/high-dimensional-analysis-in-python",
+        "weight": 1
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:carpentries-incubator/high-dimensional-analysis-in-python",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/OpenRefine-ecology-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:datacarpentry/OpenRefine-ecology-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/bulkUploader",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:earthcube/NotebookTemplates",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/r-novice-gapminder",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:janosh/awesome-normalizing-flows",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:Paleostats/ProxyUQ",
+        "weight": 4
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/ndbLandingPage",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:sstevens2/instructor-training",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/widget",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:megarcia/HTCondor_examples",
+        "weight": 1
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:FANTM/devlprd",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/docs.carpentries.org-archive",
+        "weight": 2
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:FANTM/pydevlpr",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/ThesisIsCode",
+        "weight": 2
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "p:disulfidebond/APOLLO_archive",
+        "weight": 7
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/Neotoma_SQL",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/R-custom",
+        "weight": 6
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/git-novice",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-lab/deep-learning-intro",
+        "weight": 3
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:arduino/library-registry",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/R-ecology-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/geospatial-capstone",
+        "weight": 4
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:simonecid/Vaccinbot",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DSI/GitPractices",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:datacarpentry/datacarpentry.github.io",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:scikit-hep/hist",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:scikit-hep/boost-histogram",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:blue442/DS875",
+        "weight": 2
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:annahaensch/TwitterAPIWorkshop",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries-incubator/study-groups",
+        "weight": 10
+      },
+      {
+        "source": "m:marlinrlee",
+        "target": "p:MarlinRLee/AFDSI-Template-repository",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/instructor-training-bonus-modules",
+        "weight": 4
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:eyackulic/throughput-lipd",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:tobyhodges/lesson-sprint-recommendations",
+        "weight": 3
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:cranmer/TheoryAndPractice",
+        "weight": 5
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/geospatial-workshop",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:sstevens2/geospatial-workshop",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/glosario",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:SteveGoldstein/pandemic",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:pymc-devs/pymc",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:pydata/xarray",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:maglet/uw-r-workshops",
+        "weight": 3
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:EarthLifeConsortium/elc_api",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/throughput_api",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/throughput_vue",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/github_scrapers",
+        "weight": 1
+      },
+      {
+        "source": "m:amegahed",
+        "target": "p:UW-xDD/xdd_website",
+        "weight": 2
+      },
+      {
+        "source": "m:referreira-wisc",
+        "target": "p:saimtiaz/cs639mapscan",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:UW-Madison-DSI/group-testing",
+        "weight": 1
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:peter-i-frazier/group-testing",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:throughput-ec/UnacquiredSites",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/maintainer-onboarding",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentrycon/carpentrycon2020",
+        "weight": 3
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:carlbfrederick/ohiCovidMetrics",
+        "weight": 1
+      },
+      {
+        "source": "m:rkhashmani",
+        "target": "p:RKHashmani/news-retrieval",
+        "weight": 2
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:gradhep/relaxed",
+        "weight": 2
+      },
+      {
+        "source": "m:blue442",
+        "target": "p:SteveGoldstein/Covid19computWI_R0",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/organization-geospatial",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:cranmer/intro-exp-phys-II",
+        "weight": 5
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:ds3-nyu/Needs-Assessment-Survey",
+        "weight": 1
+      },
+      {
+        "source": "m:amkitt",
+        "target": "p:code-for-chapel-hill/NC-COVID-Support",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:EarthCubeGeochron/IRDDive",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:SteveGoldstein/GBS_preprocessing",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/2020-01-22-uwmadison-swc",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:uw-madison-comps/R-plant-lesson",
+        "weight": 22
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/instructor-development",
+        "weight": 6
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:sstevens2/genomics-workshop",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:SteveGoldstein/R-plant-lesson",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:scikit-hep/scikit-hep-orgstats",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:dme26/docker-introduction",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:iris-hep/awesome-hep",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:julietteBruce/syzygycomputations",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:carpentries/carpentrycon",
+        "weight": 4
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:DavidPageGroup/longevity",
+        "weight": 6
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:LFITaskForce/FlatironMeeting",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/neotoma",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/neotoma_lakes",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/2019-01-16-uwmadison-dc",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/2019-01-14-uwmadison-swc",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:ComBEE-UW-Madison/PythonStudyGroup",
+        "weight": 5
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:iml-wg/HEP-ML-Resources",
+        "weight": 3
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:binder-examples/setup.py",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:hsf-training/PyHEP-resources",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-DataScience/swcarpentry-workflows-in-practice",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:ComBEE-UW-Madison/2017-09-29-git-workshop",
+        "weight": 6
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:sstevens2/2017-01-12-uwmadison",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:madminer-tool/madminer",
+        "weight": 1
+      },
+      {
+        "source": "m:finnkuusisto",
+        "target": "p:badgerloop-software/pod3",
+        "weight": 6
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:vnsriniv/Microbial-Omics",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:ComBEE-UW-Madison/RStudyGroup",
+        "weight": 3
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:PCMIP/workflow-paper",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:snotskie/just-soda",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:SimonGoring/EC_Network",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/Education_Paper",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:hadley/adv-r",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/website-archive",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2017-08-22-uwmadison-dc",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2017-06-28-uwmadison-swc",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:ropensci-archive/rcoreoa",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:UW-Madison-ACI/2017-06-19-uwmadison-dc",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:JuliaLang/www_old.julialang.org",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:rqtl/qtl2geno",
+        "weight": 2
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:rqtl/qtl2scan",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:richardjtelford/palaeoSig",
+        "weight": 1
+      },
+      {
+        "source": "m:mariru",
+        "target": "p:blei-lab/edward",
+        "weight": 5
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:NeotomaDB/CrossRef_Publications",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:scottsfarley93/scottsfarley93.github.io",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:SimonGoring/ShouldIStayOrShouldIGo",
+        "weight": 3
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:PalEON-Project/modeling_met_ensemble",
+        "weight": 1
+      },
+      {
+        "source": "m:byandell",
+        "target": "p:rladies/praise",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2017-01-12-uwmadison",
+        "weight": 4
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2017-01-10-uwmadison",
+        "weight": 2
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:mossmatters/HybPiper",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:kbroman/datacarpentry_R_2017-01-10",
+        "weight": 2
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:glouppe/paper-learning-to-pivot",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:WilliamsPaleoLab/WilliamsPaleoLab.github.io",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:WilliamsPaleoLab/JoeThesis",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2016-08-29-uwmadison",
+        "weight": 2
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:SimonGoring/WitnessTrees",
+        "weight": 5
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:PalEON-Project/PalEON-FIA",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:swcarpentry/DEPRECATED-training-prep-2015-09",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:johnwilsonICON/txvis",
+        "weight": 16
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/2016-06-08-uwmadison",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:diana-hep/carl",
+        "weight": 8
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:crazapplejuice/flags",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:everpub/openscienceprize",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:xuf12/2015-11-10-northwesternu",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:thehackerwithin/wisconsin",
+        "weight": 3
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:AstroHackWeek/AstroHackWeek2015",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:ezcn/shell-genomics",
+        "weight": 1
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:UW-Madison-ACI/boot-camps",
+        "weight": 3
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:UW-Madison-ACI/boot-camps",
+        "weight": 1
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "p:LMFDB/lmfdb",
+        "weight": 2
+      },
+      {
+        "source": "m:garrettmerz",
+        "target": "p:kpwelsh/Betrayal",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:madipape/simplestats",
+        "weight": 1
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/training-course",
+        "weight": 9
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:swcarpentry/r-novice-inflammation",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:recast-hep/recast-github-webhooks",
+        "weight": 2
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "p:iglpdc/git-tutorial-practice",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:plotly/Plotly.jl",
+        "weight": 3
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:cshimmin/hmet-fit",
+        "weight": 2
+      },
+      {
+        "source": "m:stevegoldstein",
+        "target": "p:gidden/simplestats",
+        "weight": 1
+      },
+      {
+        "source": "m:snotskie",
+        "target": "p:JuliaLang/METADATA.jl",
+        "weight": 7
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:uhussain/Higgs-SpinCP-analysis",
+        "weight": 1
+      },
+      {
+        "source": "m:cranmer",
+        "target": "p:mattphotonman/2014-03-17-nyu-exercises",
+        "weight": 1
+      },
+      {
+        "source": "m:simongoring",
+        "target": "p:astrophysaxist/simplestats",
+        "weight": 1
+      },
+      {
+        "source": "m:mariru",
+        "target": "p:swyp/hackSwyp",
+        "weight": 1
+      }
+    ],
+    "member_links": [
+      {
+        "source": "m:amegahed",
+        "target": "m:amkitt",
+        "weight": 1,
+        "projects": [
+          "UW-Madison-DSI/ospo.wisc.edu"
+        ]
+      },
+      {
+        "source": "m:amkitt",
+        "target": "m:mservillon",
+        "weight": 1,
+        "projects": [
+          "UW-Madison-DSI/ospo.wisc.edu-version-1.0"
+        ]
+      },
+      {
+        "source": "m:annahaensch",
+        "target": "m:matthewfeickert",
+        "weight": 1,
+        "projects": [
+          "scipy-conference/scipy_proceedings"
+        ]
+      },
+      {
+        "source": "m:byandell",
+        "target": "m:sstevens2",
+        "weight": 1,
+        "projects": [
+          "datacarpentry/OpenRefine-ecology-lesson"
+        ]
+      },
+      {
+        "source": "m:cranmer",
+        "target": "m:jasonlo",
+        "weight": 1,
+        "projects": [
+          "cranmer/cairn"
+        ]
+      },
+      {
+        "source": "m:cranmer",
+        "target": "m:matthewfeickert",
+        "weight": 1,
+        "projects": [
+          "iris-hep/iris-hep.github.io"
+        ]
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "m:jasonlo",
+        "weight": 1,
+        "projects": [
+          "UW-xDD/text2graph_llm"
+        ]
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "m:sstevens2",
+        "weight": 1,
+        "projects": [
+          "UW-Madison-DataScience/countries"
+        ]
+      },
+      {
+        "source": "m:ilmcconnell",
+        "target": "m:stevegoldstein",
+        "weight": 1,
+        "projects": [
+          "carpentries-incubator/high-dimensional-analysis-in-python"
+        ]
+      },
+      {
+        "source": "m:jasonlo",
+        "target": "m:matthewfeickert",
+        "weight": 1,
+        "projects": [
+          "CHTC/templates-GPUs"
+        ]
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "m:rkhashmani",
+        "weight": 1,
+        "projects": [
+          "driftless-star/driftless-star"
+        ]
+      },
+      {
+        "source": "m:matthewfeickert",
+        "target": "m:sstevens2",
+        "weight": 1,
+        "projects": [
+          "carpentries-incubator/reproducible-ml-workflows"
+        ]
+      },
+      {
+        "source": "m:snotskie",
+        "target": "m:sstevens2",
+        "weight": 2,
+        "projects": [
+          "carpentries-incubator/julia-novice",
+          "carpentries-incubator/python-text-analysis"
+        ]
+      },
+      {
+        "source": "m:sstevens2",
+        "target": "m:stevegoldstein",
+        "weight": 1,
+        "projects": [
+          "UW-Madison-ACI/boot-camps"
+        ]
+      }
+    ],
+    "shared_projects": 15
+  }
 }

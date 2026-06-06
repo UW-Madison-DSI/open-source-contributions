@@ -104,6 +104,156 @@ function renderTimeChart() {
   });
 }
 
+// Holds the live D3 simulation so we can stop it before re-rendering.
+let networkSim = null;
+
+function renderNetwork() {
+  const net = state.data.network;
+  const panel = document.getElementById("networkPanel");
+  if (!panel) return;
+  if (!net || !(net.nodes || []).length) {
+    panel.style.display = "none";
+    return;
+  }
+
+  const container = document.getElementById("network");
+  const note = document.getElementById("networkNote");
+  const sharedOnly = document.getElementById("sharedOnly").checked;
+
+  const byId = new Map(net.nodes.map((n) => [n.id, n]));
+  // Co-contribution map for member tooltips: login id -> [{name, weight, projects}]
+  const collabs = new Map();
+  for (const l of net.member_links || []) {
+    for (const [self, other] of [[l.source, l.target], [l.target, l.source]]) {
+      const o = byId.get(other);
+      if (!o) continue;
+      if (!collabs.has(self)) collabs.set(self, []);
+      collabs.get(self).push({ name: o.label, weight: l.weight, projects: l.projects });
+    }
+  }
+
+  // d3.forceLink rewrites source/target into node objects, so clone every render.
+  const linkVisible = (l) => {
+    const p = byId.get(l.target);
+    return p && p.type === "project" && (!sharedOnly || p.shared);
+  };
+  const links = net.links.filter(linkVisible).map((l) => ({ ...l }));
+  const keep = new Set();
+  links.forEach((l) => {
+    keep.add(l.source);
+    keep.add(l.target);
+  });
+  const nodes = net.nodes.filter((n) => keep.has(n.id)).map((n) => ({ ...n }));
+
+  const nMembers = nodes.filter((n) => n.type === "member").length;
+  const nProjects = nodes.length - nMembers;
+  note.textContent =
+    `${net.shared_projects} project${net.shared_projects === 1 ? "" : "s"} shared by ≥2 members · ` +
+    `showing ${nProjects} project${nProjects === 1 ? "" : "s"} and ${nMembers} member${nMembers === 1 ? "" : "s"}` +
+    (sharedOnly && !nProjects ? " — no shared projects yet; uncheck to see all." : "");
+
+  if (networkSim) networkSim.stop();
+  container.innerHTML = "";
+  if (!nodes.length) return;
+
+  const width = container.clientWidth || 720;
+  const height = 480;
+  const radius = (d) =>
+    d.type === "member" ? 9 + Math.sqrt(d.degree || 1) * 2.5 : 5 + Math.sqrt(d.contributions || 1) * 1.4;
+  const fill = (d) => (d.type === "member" ? "#c5050c" : d.shared ? "#f59e0b" : "#0479a8");
+
+  const svg = d3
+    .select(container)
+    .append("svg")
+    .attr("width", "100%")
+    .attr("height", height)
+    .attr("viewBox", [0, 0, width, height]);
+  const g = svg.append("g");
+  svg.call(
+    d3.zoom().scaleExtent([0.2, 4]).on("zoom", (e) => g.attr("transform", e.transform))
+  );
+
+  const link = g
+    .append("g")
+    .attr("stroke", "#cbd5e1")
+    .attr("stroke-opacity", 0.7)
+    .selectAll("line")
+    .data(links)
+    .join("line")
+    .attr("stroke-width", (d) => Math.min(1 + Math.sqrt(d.weight || 1), 5));
+
+  const node = g
+    .append("g")
+    .selectAll("g")
+    .data(nodes)
+    .join("g")
+    .attr("class", "node")
+    .call(drag());
+
+  node
+    .append("circle")
+    .attr("r", radius)
+    .attr("fill", fill)
+    .attr("stroke", "#fff")
+    .attr("stroke-width", 1.5);
+
+  node.append("title").text((d) => {
+    if (d.type === "member") {
+      const cs = (collabs.get(d.id) || []).sort((a, b) => b.weight - a.weight);
+      const line = `${d.label} — ${d.degree} project${d.degree === 1 ? "" : "s"}`;
+      if (!cs.length) return line;
+      const top = cs.slice(0, 5).map((c) => `  ${c.name} (${c.weight} shared)`).join("\n");
+      return `${line}\nCo-contributes with:\n${top}`;
+    }
+    return `${d.label} — ${d.members} member${d.members === 1 ? "" : "s"}, ${d.contributions} contribution${
+      d.contributions === 1 ? "" : "s"
+    }`;
+  });
+
+  // Label members and shared projects only, to keep the canvas readable.
+  node
+    .filter((d) => d.type === "member" || d.members >= 2)
+    .append("text")
+    .attr("x", (d) => radius(d) + 4)
+    .attr("y", 4)
+    .attr("class", (d) => `node-label ${d.type}`)
+    .text((d) => (d.type === "member" ? d.label : d.label.split("/").pop()));
+
+  networkSim = d3
+    .forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id((d) => d.id).distance(60).strength(0.55))
+    .force("charge", d3.forceManyBody().strength(-200))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("collide", d3.forceCollide((d) => radius(d) + 4))
+    .on("tick", () => {
+      link
+        .attr("x1", (d) => d.source.x)
+        .attr("y1", (d) => d.source.y)
+        .attr("x2", (d) => d.target.x)
+        .attr("y2", (d) => d.target.y);
+      node.attr("transform", (d) => `translate(${d.x},${d.y})`);
+    });
+
+  function drag() {
+    return d3
+      .drag()
+      .on("start", (e, d) => {
+        if (!e.active) networkSim.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      })
+      .on("drag", (e, d) => {
+        d.fx = e.x;
+        d.fy = e.y;
+      })
+      .on("end", (e, d) => {
+        if (!e.active) networkSim.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      });
+  }
+}
+
 function renderMembers() {
   const tbody = document.querySelector("#membersTable tbody");
   const q = document.getElementById("memberSearch").value.trim().toLowerCase();
@@ -143,7 +293,6 @@ function sortVal(m, key) {
 }
 
 function memberRow(m) {
-  const ext = state.data.summary; // unused; keep signature simple
   const profile = `https://github.com/${encodeURIComponent(m.github)}`;
   const avatar = `${profile}.png?size=48`;
   return `<tr>
@@ -201,6 +350,14 @@ function contribRow(c) {
 function wireControls() {
   document.getElementById("memberSearch").addEventListener("input", renderMembers);
   document.getElementById("contribSearch").addEventListener("input", renderContributions);
+
+  const sharedOnly = document.getElementById("sharedOnly");
+  if (sharedOnly) {
+    // Default to the legible shared-only view when collaboration exists.
+    sharedOnly.checked = (state.data.network?.shared_projects || 0) > 0;
+    sharedOnly.addEventListener("change", renderNetwork);
+    renderNetwork();
+  }
   document.querySelectorAll("#membersTable th[data-sort]").forEach((th) => {
     th.addEventListener("click", () => {
       const key = th.dataset.sort;
