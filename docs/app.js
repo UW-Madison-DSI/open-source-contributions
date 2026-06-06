@@ -34,7 +34,6 @@ async function init() {
   renderCards();
   renderProjectsChart();
   renderTimeChart();
-  renderTypeChart();
   renderMembers();
   renderContributions();
   wireControls();
@@ -102,52 +101,6 @@ function renderTimeChart() {
       ],
     },
     options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } },
-  });
-}
-
-function renderTypeChart() {
-  const byType = state.data.summary.by_type || {};
-  // Largest slice first for a readable legend.
-  const entries = Object.entries(byType).sort((a, b) => b[1] - a[1]);
-  const panel = document.getElementById("typePanel");
-  if (!entries.length) {
-    if (panel) panel.style.display = "none";
-    return;
-  }
-  // Stable colors per known type, falling back to a neutral palette.
-  const palette = {
-    pr: "#1b6e3c",
-    issue: "#9a5b00",
-    review: "#075985",
-    docs: "#b45309",
-    talk: "#9b1c5b",
-    maintainer: "#5b21b6",
-    release: "#0479a8",
-    other: "#6b7280",
-  };
-  const fallback = ["#c5050c", "#0479a8", "#f59e0b", "#1b6e3c", "#5b21b6", "#9b1c5b", "#6b7280"];
-  const colors = entries.map(([t], i) => palette[t] || fallback[i % fallback.length]);
-
-  new Chart(document.getElementById("typeChart"), {
-    type: "doughnut",
-    data: {
-      labels: entries.map(([t]) => t),
-      datasets: [{ data: entries.map(([, n]) => n), backgroundColor: colors, borderWidth: 1, borderColor: "#fff" }],
-    },
-    options: {
-      plugins: {
-        legend: { position: "bottom", labels: { boxWidth: 12, font: { size: 11 } } },
-        tooltip: {
-          callbacks: {
-            label: (ctx) => {
-              const total = ctx.dataset.data.reduce((a, b) => a + b, 0) || 1;
-              const pct = Math.round((ctx.parsed / total) * 100);
-              return ` ${ctx.label}: ${ctx.parsed.toLocaleString()} (${pct}%)`;
-            },
-          },
-        },
-      },
-    },
   });
 }
 
