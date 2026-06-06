@@ -21,6 +21,8 @@ members:
     role: staff
     affiliation: UW–Madison Data Science Institute
     active: true
+    links:
+      website: https://mariaob1201.github.io/mariaoros.github.io/
 
   - name: Matthew Feickert
     github: matthewfeickert
@@ -132,7 +134,7 @@ members:
 
   - name: Maja Waldron
     github: mariru
-    role: staff
+    role: affiliate
     affiliation: UW–Madison Data Science Institute
     active: true
     links:
